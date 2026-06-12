@@ -1,0 +1,24 @@
+{
+  "field_info": {
+    "field_name": "Sample Field",
+    "company": "ITB",
+    "location": "Indonesia",
+    "engineer": "Student"
+  },
+  "pvt_input": {
+    "reservoir_temperature_f": 200.0,
+    "initial_reservoir_pressure_psia": 4500.0,
+    "evaluation_pressure_psia": 3000.0,
+    "standard_pressure_psia": 14.7,
+    "gas_specific_gravity": 0.87,
+    "oil_api": 54.0,
+    "bubble_point_pressure_psia": 2750.0,
+    "separator_pressure_psia": 150.0,
+    "separator_temperature_f": 60.0,
+    "co2_mol_pct": 0.25,
+    "h2s_mol_pct": 0.4,
+    "n2_mol_pct": 0.35,
+    "tds_weight_pct": 5.0,
+    "brine_condition": "gas_saturated"
+  }
+}
